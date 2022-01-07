@@ -1,0 +1,25 @@
+Aggressive option false
+FALCON cfg overrides
+Genome Length 165000000
+Seed coverage 30
+Seed length cutoff -1
+Save Output for Unzip false
+Algorithm best
+Masking true
+Minimum confidence 40
+Minimum coverage 5
+Consolidate .bam false
+Number of .bam files 1
+Filters to add to the DataSet rq >= 0.7
+Output unaligned .bam false
+Minimum subread length 0
+Sample Name
+Process HQ Regions false
+Pick One Read per ZMW of Median Length false
+Minimum Concordance (%) 70
+Minimum Length (bp) 50
+Memory per thread for sorting 4G
+Split by Sample false
+Strip Base Tags false
+Override Options
+Process ZMW Reads false
